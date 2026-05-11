@@ -12,7 +12,6 @@
 
 **`Computer Science Student`**
 
-[![Zetech University](https://img.shields.io/badge/Zetech_University-Computer-Science-0a0a0a?style=flat-square&logo=graduation-cap&logoColor=white)](https://zetech.ac.ke)
 [![Location](https://img.shields.io/badge/Nairobi,_Kenya-🌍-0a0a0a?style=flat-square)](https://github.com/emmanuelbett)
 [![Focus](https://img.shields.io/badge/Open_to-Internships_%26_Trainee_Roles-22c55e?style=flat-square)](mailto:emmanuel@email.com)
 
