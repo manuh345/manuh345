@@ -25,17 +25,17 @@ CS student at Zetech University who builds things to understand them.
 Currently deep in full-stack web dev  Node.js, Express, MongoDB  but my
 real interest is in how systems can be secured, broken, and hardened.
 
-Next frontier: cybersecurity — CTFs, network fundamentals, ethical hacking,
+Next frontier: cybersecurity - CTFs, network fundamentals, ethical hacking,
 and whatever rabbit holes GitHub leads me down.
 
 
 ### > interests --verbose
 
-- **Cybersecurity** — actively studying network security, common attack vectors,
+- **Cybersecurity** - actively studying network security, common attack vectors,
   and working toward hands-on CTF practice
-- **AI-Assisted Dev** — using LLMs as a force multiplier for shipping faster
-- **IoT** — how software meets hardware at the edge
-- **Systems Thinking** — understanding what's under the abstraction layer
+- **AI-Assisted Dev** - using LLMs as a force multiplier for shipping faster
+- **IoT** - how software meets hardware at the edge
+- **Systems Thinking** - understanding what's under the abstraction layer
 
 ---
 
