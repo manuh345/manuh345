@@ -13,7 +13,7 @@
 **`Computer Science Student`**
 
 [![Location](https://img.shields.io/badge/Nairobi,_Kenya-🌍-0a0a0a?style=flat-square)](https://github.com/emmanuelbett)
-[![Focus](https://img.shields.io/badge/Open_to-Internships_%26_Trainee_Roles-22c55e?style=flat-square)](mailto:emmanuel@email.com)
+[![Focus](https://img.shields.io/badge/Open_to-Internships_%26_Job-opportunities-22c55e?style=flat-square)](mailto:emmanuel@email.com)
 
 </div>
 
