@@ -18,6 +18,8 @@
 
 </div>
 
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="810e7012-9a52-459f-b20f-1ef8c799bca6" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 ---
 
 ## > whoami
